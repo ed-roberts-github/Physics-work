@@ -1,0 +1,2 @@
+Code to run a collision simulation. 
+Note to run the simulation you'll need the gun-lot package and will need to pipe output of collide.cc in a file called 'data' then run by command 'gun-lot gnu12'
