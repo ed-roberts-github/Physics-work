@@ -1,3 +1,5 @@
+##Planet orbits
+
 This program simulates 2 body interactions using the inverse square law. 
 To run the program pipe the output of the compiled program into gnuplot like this:
 
