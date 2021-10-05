@@ -1,0 +1,4 @@
+##Pendulum
+
+This is a short matlab script to simulate the swing of a pendulum over time. This does not assume small angles so isn't just 
+simple harmoic motion (which would lead to a basic sinusoidal oscillation)
