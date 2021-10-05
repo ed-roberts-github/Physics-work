@@ -1,0 +1,7 @@
+This program simulates 2 body interactions using the inverse square law. 
+To run the program pipe the output of the compiled program into gnuplot like this:
+
+g++ planet.cc -o planet
+./planet |  gnuplot -p -e 'plot "/dev/stdin" using 2:3 w points'
+
+The orbiting body's path will be plotted. Denser crosses means the body is moving slower in that region. The heavier body is at (0,0).
