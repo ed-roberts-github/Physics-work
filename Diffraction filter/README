@@ -1,3 +1,4 @@
 ##Diffration filter
 
 This is a matlab script that I made to simulate fraunhoffer diffraction using fourier transfroms of various different shapes.
+The image is a H shape that can be passed through different aperatures such as a slit, a large cirlce or a small circle.
